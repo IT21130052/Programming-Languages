@@ -6,7 +6,6 @@ int main()
 	char type , answer ;
 	int age ;
 	
-	
 	printf("Enter age of the account holder : ");
 	scanf("%d"  , &age);
 	
